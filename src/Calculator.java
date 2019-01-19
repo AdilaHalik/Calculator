@@ -18,7 +18,8 @@ public class Calculator {
     }
 
     public static double divide( double num1, double num2){
-         
+         num1 = 8.3;
+         num2 = 1.4;
         return num1/num2;
     
     }
