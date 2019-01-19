@@ -17,9 +17,9 @@ public class Calculator {
         return  sum;
     }
 
-    public static double divide( double num1, double num2){
+    public static double divide( double number1, double number2){
          
-        return num1/num2;
+        return number1/number2;
     
     }
 
